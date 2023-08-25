@@ -33,7 +33,7 @@ We employ three major types of prompting methods for SAM: point, box, and a comb
 </div>
 
 ## Perturbation Types
-We evaluate the robustness of SAM by considering fifteen image perturbations, each chosen for their frequent occurrence in real-world imaging scenarios, categorized into six distinct groups. The following table provides an overview of different perturbations and parameters used for experiments.
+We evaluate the robustness of SAM by considering fifteen image perturbations, each chosen for their frequent occurrence in real-world imaging scenarios, categorized into six distinct groups. The following table provides an overview of different perturbations and parameters used for experiments. Here, OG, IC, ENV, and CMP stand for Optical and Geometric, Illumination and Color, Environmental, and Compression, respectively.
 
 | **Category** | **Perturbation**        | **Abbreviation** | **Parameters**                       |
 |--------------|-------------------------|------------------|--------------------------------------|
